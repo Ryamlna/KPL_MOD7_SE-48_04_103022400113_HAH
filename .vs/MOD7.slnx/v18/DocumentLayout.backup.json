@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\KPL_MOD7_SE-48_04_103022400113_HAH\\MOD7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A4EF422-7A11-401C-A0BF-CA74DEC7F24F}|MOD7\\MOD7.csproj|d:\\kpl_mod7_se-48_04_103022400113_hah\\mod7\\mod7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A4EF422-7A11-401C-A0BF-CA74DEC7F24F}|MOD7\\MOD7.csproj|solutionrelative:mod7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9516510-840A-DBC6-D653-177E8D81476F}|MOD7\\MOD7.csproj|d:\\kpl_mod7_se-48_04_103022400113_hah\\mod7\\mod7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9516510-840A-DBC6-D653-177E8D81476F}|MOD7\\MOD7.csproj|solutionrelative:mod7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9516510-840A-DBC6-D653-177E8D81476F}|MOD7\\MOD7.csproj|d:\\kpl_mod7_se-48_04_103022400113_hah\\mod7\\mod7\\jurnal7_1_103022400113.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9516510-840A-DBC6-D653-177E8D81476F}|MOD7\\MOD7.csproj|solutionrelative:mod7\\jurnal7_1_103022400113.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9516510-840A-DBC6-D653-177E8D81476F}|MOD7\\MOD7.csproj|d:\\kpl_mod7_se-48_04_103022400113_hah\\mod7\\mod7\\filmfavorit_103022400113.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9516510-840A-DBC6-D653-177E8D81476F}|MOD7\\MOD7.csproj|solutionrelative:mod7\\filmfavorit_103022400113.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +32,36 @@
               "RelativeDocumentMoniker": "MOD7\\Program.cs",
               "ToolTip": "D:\\KPL_MOD7_SE-48_04_103022400113_HAH\\MOD7\\MOD7\\Program.cs",
               "RelativeToolTip": "MOD7\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-14T23:59:55.636Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FilmFavorit_103022400113.cs",
+              "DocumentMoniker": "D:\\KPL_MOD7_SE-48_04_103022400113_HAH\\MOD7\\MOD7\\FilmFavorit_103022400113.cs",
+              "RelativeDocumentMoniker": "MOD7\\FilmFavorit_103022400113.cs",
+              "ToolTip": "D:\\KPL_MOD7_SE-48_04_103022400113_HAH\\MOD7\\MOD7\\FilmFavorit_103022400113.cs",
+              "RelativeToolTip": "MOD7\\FilmFavorit_103022400113.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T00:14:04.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "jurnal7_1_103022400113.json",
+              "DocumentMoniker": "D:\\KPL_MOD7_SE-48_04_103022400113_HAH\\MOD7\\MOD7\\jurnal7_1_103022400113.json",
+              "RelativeDocumentMoniker": "MOD7\\jurnal7_1_103022400113.json",
+              "ToolTip": "D:\\KPL_MOD7_SE-48_04_103022400113_HAH\\MOD7\\MOD7\\jurnal7_1_103022400113.json",
+              "RelativeToolTip": "MOD7\\jurnal7_1_103022400113.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-15T00:10:47.688Z",
               "EditorCaption": ""
             }
           ]
