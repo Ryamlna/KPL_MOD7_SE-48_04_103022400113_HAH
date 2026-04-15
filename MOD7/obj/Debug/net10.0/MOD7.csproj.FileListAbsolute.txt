@@ -1,0 +1,16 @@
+D:\Modul7_Kelompok\KPL_MOD7_SE-48_04_103022400113_HAH\MOD7\bin\Debug\net10.0\jurnal7_1_103022400134.json
+D:\Modul7_Kelompok\KPL_MOD7_SE-48_04_103022400113_HAH\MOD7\bin\Debug\net10.0\MOD7.exe
+D:\Modul7_Kelompok\KPL_MOD7_SE-48_04_103022400113_HAH\MOD7\bin\Debug\net10.0\MOD7.deps.json
+D:\Modul7_Kelompok\KPL_MOD7_SE-48_04_103022400113_HAH\MOD7\bin\Debug\net10.0\MOD7.runtimeconfig.json
+D:\Modul7_Kelompok\KPL_MOD7_SE-48_04_103022400113_HAH\MOD7\bin\Debug\net10.0\MOD7.dll
+D:\Modul7_Kelompok\KPL_MOD7_SE-48_04_103022400113_HAH\MOD7\bin\Debug\net10.0\MOD7.pdb
+D:\Modul7_Kelompok\KPL_MOD7_SE-48_04_103022400113_HAH\MOD7\obj\Debug\net10.0\MOD7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Modul7_Kelompok\KPL_MOD7_SE-48_04_103022400113_HAH\MOD7\obj\Debug\net10.0\MOD7.AssemblyInfoInputs.cache
+D:\Modul7_Kelompok\KPL_MOD7_SE-48_04_103022400113_HAH\MOD7\obj\Debug\net10.0\MOD7.AssemblyInfo.cs
+D:\Modul7_Kelompok\KPL_MOD7_SE-48_04_103022400113_HAH\MOD7\obj\Debug\net10.0\MOD7.csproj.CoreCompileInputs.cache
+D:\Modul7_Kelompok\KPL_MOD7_SE-48_04_103022400113_HAH\MOD7\obj\Debug\net10.0\MOD7.sourcelink.json
+D:\Modul7_Kelompok\KPL_MOD7_SE-48_04_103022400113_HAH\MOD7\obj\Debug\net10.0\MOD7.dll
+D:\Modul7_Kelompok\KPL_MOD7_SE-48_04_103022400113_HAH\MOD7\obj\Debug\net10.0\refint\MOD7.dll
+D:\Modul7_Kelompok\KPL_MOD7_SE-48_04_103022400113_HAH\MOD7\obj\Debug\net10.0\MOD7.pdb
+D:\Modul7_Kelompok\KPL_MOD7_SE-48_04_103022400113_HAH\MOD7\obj\Debug\net10.0\MOD7.genruntimeconfig.cache
+D:\Modul7_Kelompok\KPL_MOD7_SE-48_04_103022400113_HAH\MOD7\obj\Debug\net10.0\ref\MOD7.dll
